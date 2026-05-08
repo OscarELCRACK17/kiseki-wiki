@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+
+  <link rel="stylesheet" href="/assets/main.css">
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      display: flex;
+      background: #f5f5f5;
+    }
+
+    /* SIDEBAR */
+    .sidebar {
+      width: 250px;
+      background: #1c1f26;
+      color: white;
+      height: 100vh;
+      padding: 20px;
+      position: fixed;
+      overflow-y: auto;
+    }
+
+    .sidebar h2 {
+      font-size: 18px;
+      margin-bottom: 10px;
+      color: #ffd700;
+    }
+
+    .sidebar a {
+      display: block;
+      color: white;
+      text-decoration: none;
+      margin: 8px 0;
+      font-size: 14px;
+    }
+
+    .sidebar a:hover {
+      color: #ffd700;
+    }
+
+    /* CONTENT */
+    .content {
+      margin-left: 270px;
+      padding: 30px;
+      max-width: 900px;
+    }
+
+    /* LANGUAGE SWITCH */
+    .lang {
+      margin-bottom: 20px;
+      font-size: 14px;
+    }
+
+    .lang a {
+      margin-right: 10px;
+      text-decoration: none;
+      color: #333;
+    }
+
+    .lang a:hover {
+      text-decoration: underline;
+    }
+
+    h1 {
+      border-bottom: 2px solid #ddd;
+      padding-bottom: 10px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- SIDEBAR -->
+  <div class="sidebar">
+    <h2>📚 Kiseki Wiki</h2>
+
+    <a href="/es/">🇪🇸 Español Home</a>
+    <a href="/en/">🇬🇧 English Home</a>
+    <a href="/jp/">🇯🇵 日本語 Home</a>
+
+    <hr>
+
+    <h2>Sagas</h2>
+    <a href="/es/sagas/">Sagas</a>
+
+    <h2>Characters</h2>
+    <a href="/es/characters/">Characters</a>
+
+    <h2>World</h2>
+    <a href="/es/world/">World</a>
+
+    <h2>Lore</h2>
+    <a href="/es/lore/">Lore</a>
+
+    <h2>Items</h2>
+    <a href="/es/items/">Items</a>
+  </div>
+
+  <!-- CONTENT -->
+  <div class="content">
+
+    <!-- LANGUAGE SWITCH -->
+    <div class="lang">
+      🌐
+      <a href="/es/">ES</a>
+      <a href="/en/">EN</a>
+      <a href="/jp/">JP</a>
+    </div>
+
+    <h1>{{ page.title }}</h1>
+
+    <div>
+      {{ content }}
+    </div>
+
+  </div>
+
+</body>
+</html>
