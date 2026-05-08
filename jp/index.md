@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: wiki
 title: 軌跡Wiki - 日本語
 ---
 

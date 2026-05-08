@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: wiki
 title: Kiseki Wiki - English
 ---
 
