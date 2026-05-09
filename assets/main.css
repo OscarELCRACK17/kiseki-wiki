@@ -1,0 +1,137 @@
+/* =========================
+   BASE
+========================= */
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f5f5f5;
+}
+
+/* =========================
+   TOPBAR
+========================= */
+
+.topbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 50px;
+  background: #1c1f26;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 15px;
+  z-index: 1000;
+}
+
+.site-title {
+  color: #ffd700;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.topbar-right a {
+  color: white;
+  margin-left: 10px;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.topbar-right a:hover {
+  color: #ffd700;
+}
+
+.topbar-center input {
+  padding: 5px;
+  border-radius: 5px;
+  border: none;
+}
+
+/* =========================
+   SIDEBAR
+========================= */
+
+.sidebar {
+  width: 250px;
+  background: #1c1f26;
+  color: white;
+  height: calc(100vh - 50px);
+  padding: 20px;
+  position: fixed;
+  top: 50px;
+  overflow-y: auto;
+}
+
+.sidebar h2 {
+  font-size: 18px;
+  margin-bottom: 10px;
+  color: #ffd700;
+}
+
+.sidebar a {
+  display: block;
+  color: white;
+  text-decoration: none;
+  margin: 8px 0;
+  font-size: 14px;
+}
+
+.sidebar a:hover {
+  color: #ffd700;
+}
+
+/* separador */
+.sidebar hr {
+  border: 0;
+  border-top: 1px solid #333;
+  margin: 15px 0;
+}
+
+/* =========================
+   CONTENT
+========================= */
+
+.content {
+  margin-left: 270px;
+  padding: 30px;
+  max-width: 900px;
+  margin-top: 70px;
+  background: white;
+}
+
+/* título de página */
+h1 {
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 10px;
+}
+
+/* =========================
+   LANGUAGE SWITCH
+========================= */
+
+.lang {
+  margin-bottom: 20px;
+  font-size: 14px;
+}
+
+.lang a {
+  margin-right: 10px;
+  text-decoration: none;
+  color: #333;
+}
+
+.lang a:hover {
+  text-decoration: underline;
+}
+
+/* =========================
+   FUTURO (BUSCADOR)
+========================= */
+
+.topbar-center input {
+  background: #fff;
+  outline: none;
+}
