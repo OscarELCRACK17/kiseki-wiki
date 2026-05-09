@@ -8,15 +8,19 @@ permalink: /
 
 Welcome to the Kiseki / Trails Wiki
 
-🌐 Choose your language:
-
-- 🇪🇸 Español → /es/
-- 🇬🇧 English → /en/
-- 🇯🇵 日本語 → /jp/
+Elige tu idioma / Choose your language / 言語を選択
 
 ---
 
-## 📖 Explore
+## 🌐 Idiomas
+
+- 🇪🇸 **Español** → [/es/](/es/)
+- 🇬🇧 **English** → [/en/](/en/)
+- 🇯🇵 **日本語** → [/jp/](/jp/)
+
+---
+
+## 📖 Explora
 
 - Sagas
 - Characters
