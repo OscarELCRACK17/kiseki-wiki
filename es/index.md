@@ -1,6 +1,8 @@
 ---
 layout: wiki
 title: Wiki Kiseki - Español
+lang: es
+permalink: /es/
 ---
 
 # 📚 Wiki Kiseki (ES)

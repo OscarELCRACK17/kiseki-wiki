@@ -1,0 +1,77 @@
+es:
+  - title: Sagas
+    url: /es/sagas/
+    children:
+      - title: Sky Arc
+        url: /es/sagas/sky/
+        children:
+          - title: Sky FC
+            url: /es/sagas/sky/fc/
+          - title: Sky SC
+            url: /es/sagas/sky/sc/
+          - title: Sky the 3rd
+            url: /es/sagas/sky/the-3rd/
+
+      - title: Crossbell Arc
+        url: /es/sagas/crossbell/
+        children:
+          - title: Trails from Zero
+            url: /es/sagas/crossbell/zero/
+          - title: Trails to Azure
+            url: /es/sagas/crossbell/azure/
+
+      - title: Cold Steel Arc
+        url: /es/sagas/cold-steel/
+        children:
+          - title: Cold Steel I
+            url: /es/sagas/cold-steel/i/
+          - title: Cold Steel II
+            url: /es/sagas/cold-steel/ii/
+          - title: Cold Steel III
+            url: /es/sagas/cold-steel/iii/
+          - title: Cold Steel IV
+            url: /es/sagas/cold-steel/iv/
+
+  - title: Characters
+    url: /es/characters/
+
+  - title: World
+    url: /es/world/
+
+  - title: Lore
+    url: /es/lore/
+
+  - title: Items
+    url: /es/items/
+
+en:
+  - title: Sagas
+    url: /en/sagas/
+
+  - title: Characters
+    url: /en/characters/
+
+  - title: World
+    url: /en/world/
+
+  - title: Lore
+    url: /en/lore/
+
+  - title: Items
+    url: /en/items/
+
+jp:
+  - title: サーガ
+    url: /jp/sagas/
+
+  - title: キャラクター
+    url: /jp/characters/
+
+  - title: 世界
+    url: /jp/world/
+
+  - title: 設定
+    url: /jp/lore/
+
+  - title: アイテム
+    url: /jp/items/

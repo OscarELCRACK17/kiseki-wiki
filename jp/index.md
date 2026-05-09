@@ -1,6 +1,8 @@
 ---
 layout: wiki
 title: 軌跡Wiki - 日本語
+lang: jp
+permalink: /jp/
 ---
 
 # 📚 軌跡 Wiki (JP)

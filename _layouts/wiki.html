@@ -5,70 +5,39 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }}</title>
 
-  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
 </head>
 
 <body>
+
   <!-- TOPBAR -->
   <div class="topbar">
     <div class="topbar-left">
-      <a href="/" class="site-title">📚 Kiseki Wiki</a>
+      <a href="{{ '/' | relative_url }}" class="site-title">📚 Kiseki Wiki</a>
     </div>
 
     <div class="topbar-center">
-      <!-- Aquí luego irá el buscador -->
       <input type="text" placeholder="Search (coming soon)" disabled>
     </div>
 
     <div class="topbar-right">
-      <a href="/es/">ES</a>
-      <a href="/en/">EN</a>
-      <a href="/jp/">JP</a>
+      <a href="{{ '/es/' | relative_url }}">ES</a>
+      <a href="{{ '/en/' | relative_url }}">EN</a>
+      <a href="{{ '/jp/' | relative_url }}">JP</a>
     </div>
   </div>
+
   <!-- SIDEBAR -->
   <div class="sidebar">
-    <h2>📚 Kiseki Wiki</h2>
-
-    <a href="/es/">🇪🇸 Español Home</a>
-    <a href="/en/">🇬🇧 English Home</a>
-    <a href="/jp/">🇯🇵 日本語 Home</a>
-
-    <hr>
-
-    <h2>Sagas</h2>
-    <a href="/es/sagas/">Sagas</a>
-
-    <h2>Characters</h2>
-    <a href="/es/characters/">Characters</a>
-
-    <h2>World</h2>
-    <a href="/es/world/">World</a>
-
-    <h2>Lore</h2>
-    <a href="/es/lore/">Lore</a>
-
-    <h2>Items</h2>
-    <a href="/es/items/">Items</a>
+    {% include sidebar.html %}
   </div>
 
   <!-- CONTENT -->
   <div class="content">
-
-    <!-- LANGUAGE SWITCH -->
-    <div class="lang">
-      🌐
-      <a href="/es/">ES</a>
-      <a href="/en/">EN</a>
-      <a href="/jp/">JP</a>
-    </div>
-
     <h1>{{ page.title }}</h1>
-
     <div>
       {{ content }}
     </div>
-
   </div>
 
 </body>

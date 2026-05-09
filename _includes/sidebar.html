@@ -1,0 +1,31 @@
+{% assign lang = page.lang | default: "es" %}
+{% assign nav = site.data.navigation[lang] %}
+
+<h2>📚 Kiseki Wiki</h2>
+
+<a href="{{ '/es/' | relative_url }}">🇪🇸 Español</a>
+<a href="{{ '/en/' | relative_url }}">🇬🇧 English</a>
+<a href="{{ '/jp/' | relative_url }}">🇯🇵 日本語</a>
+
+<hr>
+
+{% for item in nav %}
+  <h2>{{ item.title }}</h2>
+
+  {% if item.url %}
+    <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+  {% endif %}
+
+  {% if item.children %}
+    {% for child in item.children %}
+      <a style="margin-left: 15px;" href="{{ child.url | relative_url }}">- {{ child.title }}</a>
+
+      {% if child.children %}
+        {% for sub in child.children %}
+          <a style="margin-left: 30px;" href="{{ sub.url | relative_url }}">• {{ sub.title }}</a>
+        {% endfor %}
+      {% endif %}
+
+    {% endfor %}
+  {% endif %}
+{% endfor %}
