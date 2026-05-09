@@ -10,22 +10,37 @@
 <hr>
 
 {% for item in nav %}
-  <h2>{{ item.title }}</h2>
 
   {% if item.url %}
-    <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+    <a href="{{ item.url | relative_url }}">
+      <h2>{{ item.title }}</h2>
+    </a>
+  {% else %}
+    <h2>{{ item.title }}</h2>
   {% endif %}
 
   {% if item.children %}
     {% for child in item.children %}
-      <a style="margin-left: 15px;" href="{{ child.url | relative_url }}">- {{ child.title }}</a>
+
+      {% if child.url %}
+        <a style="margin-left: 15px;" href="{{ child.url | relative_url }}">
+          - {{ child.title }}
+        </a>
+      {% else %}
+        <div style="margin-left: 15px;">
+          - {{ child.title }}
+        </div>
+      {% endif %}
 
       {% if child.children %}
         {% for sub in child.children %}
-          <a style="margin-left: 30px;" href="{{ sub.url | relative_url }}">• {{ sub.title }}</a>
+          <a style="margin-left: 30px;" href="{{ sub.url | relative_url }}">
+            • {{ sub.title }}
+          </a>
         {% endfor %}
       {% endif %}
 
     {% endfor %}
   {% endif %}
+
 {% endfor %}

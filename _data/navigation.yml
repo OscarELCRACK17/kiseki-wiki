@@ -1,5 +1,6 @@
 es:
   - title: Sagas
+    url: /es/sagas/
     children:
 
       - title: Sky Arc
@@ -43,12 +44,12 @@ es:
           - title: Trails through Daybreak II
             url: /es/sagas/calvard/kuro-ii/
           - title: Trails beyond the Horizon
-            url: /es/sagas/calvard/horizon/  
+            url: /es/sagas/calvard/horizon/
 
-  - title: Characters
+  - title: Personajes
     url: /es/characters/
 
-  - title: World
+  - title: Mundo
     url: /es/world/
 
   - title: Lore
