@@ -13,8 +13,8 @@ Parte de Reverie centrada en la SSS.
 
 ## 🎭 Personajes
 
-- Lloyd Bannings
-- Elie MacDowell
+- [Lloyd Bannings](/es/characters/lloyd-bannings/)
+- [Elie MacDowell](/es/characters/elie-macdowell/)
 - Randy Orlando
 - Tio Plato
 

@@ -19,8 +19,8 @@ Continúa los eventos tras Trails through Daybreak II.
 
 ## 🎭 Protagonistas
 
-- Van Arkride
-- Agnes Claudel
+- [Van Arkride](/es/characters/van-arkride/)
+- [Agnes Claudel](/es/characters/agnes-claudel/)
 - Nuevos personajes del arco final de Calvard
 
 ---

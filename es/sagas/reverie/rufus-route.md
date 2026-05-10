@@ -13,6 +13,6 @@ Ruta centrada en personajes de Erebonia.
 
 ## 🎭 Personajes
 
-- Rean Schwarzer
+- [Rean Schwarzer](/es/characters/rean-schwarzer/)
 - Rufus Albarea
 - Class VII

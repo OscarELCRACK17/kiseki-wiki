@@ -13,7 +13,7 @@ Primer juego del arco Cold Steel.
 
 ## 🎭 Personaje principal
 
-- Rean Schwarzer
+- [Rean Schwarzer](/es/characters/rean-schwarzer/)
 
 ---
 

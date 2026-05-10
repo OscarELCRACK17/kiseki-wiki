@@ -19,7 +19,7 @@ Escalada de conflictos políticos y eventos sobrenaturales en Crossbell.
 
 ## 🎭 Personajes principales
 
-- Lloyd Bannings
-- Elie MacDowell
+- [Lloyd Bannings](/es/characters/lloyd-bannings/)
+- [Elie MacDowell](/es/characters/elie-macdowell/)
 - Tio Plato
 - Randy Orlando

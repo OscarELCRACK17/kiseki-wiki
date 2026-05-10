@@ -13,12 +13,12 @@ Primer juego del Calvard Arc.
 
 ## 📖 Historia
 
-Van Arkride trabaja como Spriggan en Edith.
+[Van Arkride](/es/characters/van-arkride/) trabaja como Spriggan en Edith.
 
 ---
 
 ## 🎭 Personajes
 
-- Van Arkride
-- Agnes Claudel
+- [Van Arkride](/es/characters/van-arkride/)
+- [Agnes Claudel](/es/characters/agnes-claudel/)
 - Elaine Auclair

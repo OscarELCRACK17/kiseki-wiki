@@ -13,14 +13,14 @@ Primer juego del arco Sky.
 
 ## 📖 Historia
 
-Estelle Bright y Joshua Bright comienzan su viaje como Bracers.
+[Estelle Bright](/es/characters/estelle-bright/) y [Joshua Bright](/es/characters/joshua-bright/) comienzan su viaje como Bracers.
 
 ---
 
 ## 🎭 Personajes principales
 
-- Estelle Bright
-- Joshua Bright
+- [Estelle Bright](/es/characters/estelle-bright/)
+- [Joshua Bright](/es/characters/joshua-bright/)
 
 ---
 

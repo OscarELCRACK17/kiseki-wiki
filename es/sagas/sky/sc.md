@@ -19,8 +19,8 @@ Continuación directa de FC y expansión del conflicto principal.
 
 ## 🎭 Personajes principales
 
-- Estelle Bright
-- Joshua Bright
+- [Estelle Bright](/es/characters/estelle-bright/)
+- [Joshua Bright](/es/characters/joshua-bright/)
 
 ---
 

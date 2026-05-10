@@ -13,8 +13,8 @@ Ruta de Van Arkride.
 
 ## 🎭 Personajes
 
-- Van Arkride
-- Agnes Claudel
+- [Van Arkride](/es/characters/van-arkride/)
+- [Agnes Claudel](/es/characters/agnes-claudel/)
 - Elaine Auclair
 
 ---
