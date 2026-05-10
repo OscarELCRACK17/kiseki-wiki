@@ -20,10 +20,10 @@ Arco centrado en la ciudad-estado de Crossbell.
 
 ## 📖 Resumen
 
-La historia sigue a Lloyd Bannings y la Special Support Section (SSS).
+La historia sigue a [Lloyd Bannings](/es/characters/lloyd-bannings/) y la Special Support Section (SSS).
 
 ---
 
 ## 🌍 Localización principal
 
-- Crossbell State
+- [Crossbell](/es/world/crossbell/) State

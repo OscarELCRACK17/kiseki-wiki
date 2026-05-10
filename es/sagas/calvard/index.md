@@ -21,7 +21,7 @@ Arco más reciente de la saga Trails.
 
 ## 🌍 Región
 
-- Republic of Calvard
+- Republic of [Calvard](/es/world/calvard/)
 
 ---
 

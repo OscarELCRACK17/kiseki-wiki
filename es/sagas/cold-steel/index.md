@@ -22,4 +22,4 @@ Arco centrado en Erebonia y la historia de Class VII.
 
 ## 🌍 Localización principal
 
-- Erebonian Empire
+- [Erebonian Empire](/es/world/erebonia/)

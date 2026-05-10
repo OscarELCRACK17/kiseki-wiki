@@ -27,4 +27,4 @@ Introducción al mundo de Zemuria, el Reino de Liberl y la Bracer Guild.
 
 ## 🌍 Localización principal
 
-- Liberl Kingdom
+- [Liberl Kingdom](/es/world/liberl/)
