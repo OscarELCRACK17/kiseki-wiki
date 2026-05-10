@@ -14,5 +14,5 @@ Bienvenido a la wiki de la saga Trails / Kiseki.
 - [Sagas](/es/sagas/)
 - [Personajes](/es/characters/)
 - [Mundo](/es/world/)
-- Lore
-- Items
+- [Lore](/es/lore/)
+- [Items](/es/items/)
