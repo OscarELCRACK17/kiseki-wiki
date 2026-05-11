@@ -1,0 +1,49 @@
+/* =========================
+   RESPONSIVE GLOBAL
+========================= */
+
+@media (max-width: 800px) {
+
+  /* layout general */
+  .layout {
+    flex-direction: column;
+    margin-top: 50px;
+  }
+
+  /* sidebar */
+  .sidebar {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+
+  /* content */
+  .content {
+    max-width: 100%;
+    padding: 15px;
+  }
+
+  /* infobox */
+  .infobox {
+    float: none;
+    width: 100%;
+    margin: 0 0 20px 0;
+  }
+
+  /* infobox images */
+  .image-container {
+    height: 200px;
+  }
+
+  /* topbar ajustes */
+  .topbar {
+    flex-wrap: wrap;
+    height: auto;
+    padding: 10px;
+  }
+
+  .topbar-center {
+    width: 100%;
+    margin-top: 5px;
+  }
+}

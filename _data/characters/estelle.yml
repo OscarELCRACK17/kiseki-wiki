@@ -1,0 +1,37 @@
+name: Estelle Bright
+
+images:
+  - id: fc
+    src: /assets/characters/estelle_fc.png
+    label: FC
+
+  - id: sc
+    src: /assets/characters/estelle_sc.png
+    label: SC
+
+  - id: cs
+    src: /assets/characters/estelle_cs.png
+    label: CS
+
+info:
+  - ["Debut", "Trails in the Sky FC"]
+  - ["Aparece en", "FC, SC, the 3rd, Zero, Azure, Cold Steel III (mención), Cold Steel IV, Reverie, Daybreak (mención)"]
+  - ["Nacionalidad", "Liberliana"]
+  - ["Edad", "16–17 (Sky), 18 (Crossbell), 19–20 (Cold Steel IV)"]
+  - ["Fecha de nacimiento", "S.1186 / 8 / 7"]
+  - ["Lugar de nacimiento", "Rolent, Reino de Liberl"]
+  - ["Estado", "Viva"]
+  - ["Afiliación", "Bracer Guild"]
+  - ["Ocupación", "Bracer"]
+  - ["Familia", "Cassius Bright (padre), Lena Bright (madre), Joshua Bright (hermano adoptivo)"]
+  - ["Hobbies", "Pescar, coleccionar zapatillas, atrapar insectos"]
+  - ["Le gusta", "Omurice, helado"]
+  - ["No le gusta", "Fantasmas"]
+  - ["Altura", "160–162 cm"]
+  - ["Medidas", "B82 / W60 / H87"]
+  - ["Ojos", "Rojo escarlata"]
+  - ["Estilo", "Bastón"]
+
+extra:
+  - ["CV (JP)", "Akemi Kanda / Tomoyo Takayanagi"]
+  - ["CV (EN)", "Stephanie Sheh / Brittney Karbowski"]

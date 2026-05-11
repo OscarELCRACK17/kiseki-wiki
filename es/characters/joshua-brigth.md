@@ -6,17 +6,12 @@ permalink: /es/characters/joshua-bright/
 ---
 
 
-<div class="infobox">
-  <div class="infobox-title">🧑 Joshua Bright</div>
+{% assign character = site.data.characters.joshua %}
 
-  <table>
-    <tr><td><b>Saga</b></td><td>Sky Arc</td></tr>
-    <tr><td><b>Primera aparición</b></td><td>Sky FC</td></tr>
-    <tr><td><b>Rol</b></td><td>Co-protagonista</td></tr>
-    <tr><td><b>Ocupación</b></td><td>Bracer</td></tr>
-    <tr><td><b>Origen</b></td><td>Liberl</td></tr>
-  </table>
-</div>
+{% include infobox-character.html
+  id="joshua"
+  data=character
+%}
 
 ## Saga principal
 Sky Arc

@@ -1,0 +1,38 @@
+name: Joshua Bright
+
+images:
+  - id: fc
+    src: /assets/characters/joshua_fc.png
+    label: FC
+
+  - id: sc
+    src: /assets/characters/joshua_sc.png
+    label: SC
+
+  - id: cs
+    src: /assets/characters/joshua_cs.png
+    label: CS
+
+info:
+  - ["Debut", "Trails in the Sky FC"]
+  - ["Alias", "The Black Fang, Joshua Astray"]
+  - ["Nacionalidad", "Ereboniana"]
+  - ["Edad", "16–17 (Sky), 18–19 (Zero/Azure), 20 (CS4), 21 (Reverie)"]
+  - ["Fecha de nacimiento", "S.1185 / 12 / 20 (Viernes)"]
+  - ["Lugar de nacimiento", "Hamel, Erebonia"]
+  - ["Estado", "Vivo"]
+  - ["Afiliación", "Bracer Guild (actual), Ouroboros (anterior)"]
+  - ["Ocupación", "Bracer, antiguo asesino de Ouroboros"]
+  - ["Familia", "Karin Astray (hermana), Cassius Bright (padre adoptivo), Estelle Bright (hermana adoptiva / pareja), Renne Bright (hermana adoptiva), Loewe (cuñado)"]
+  - ["Hobbies", "Tocar la armónica, leer, reparar armas"]
+  - ["Le gusta", "Armónica"]
+  - ["Género", "Masculino"]
+  - ["Altura", "170 cm (165 cm en Sky FC)"]
+  - ["Ojos", "Ámbar"]
+  - ["Cabello", "Negro"]
+  - ["Arma", "Espadas gemelas"]
+  
+extra:
+  - ["CV (JP)", "Mitsuki Saiga / Natsumi Fujiwara"]
+  - ["CV (EN)", "Johnny Yong Bosch"]
+  - ["CV (Anime OVA)", "Blake Shepard"]

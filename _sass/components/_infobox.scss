@@ -1,0 +1,42 @@
+.infobox {
+  float: right;
+  width: 260px;
+  margin: 0 0 20px 20px;
+  padding: 15px;
+  background: #1c1f26;
+  color: white;
+  border-radius: 12px;
+  font-size: 14px;
+  border: 1px solid rgba(19, 98, 208, 0.1);
+}
+
+.infobox-title {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.infobox table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.infobox td {
+  padding: 4px 0;
+  vertical-align: top;
+}
+
+.infobox tr {
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+}
+
+.infobox tr:hover {
+  background: rgba(255,255,255,0.05);
+  transition: background 0.15s ease;
+}
+
+.infobox td:first-child {
+  width: 45%;
+  color: #ddd;
+}

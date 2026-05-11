@@ -1,0 +1,52 @@
+<div class="infobox">
+  <div class="infobox-title">
+    {{ include.data.name }}
+  </div>
+
+  {% if include.data.images %}
+  <div class="infobox-images">
+
+    {% for img in include.data.images %}
+      <input type="radio"
+             name="{{ include.id }}"
+             id="{{ include.id }}-{{ img.id }}"
+             {% if forloop.first %}checked{% endif %}>
+    {% endfor %}
+
+    <div class="image-container">
+      {% for img in include.data.images %}
+        <img class="img-{{ img.id }}"
+             src="{{ img.src | relative_url }}"
+             alt="{{ img.label }}">
+      {% endfor %}
+    </div>
+
+    <div class="selector">
+      {% for img in include.data.images %}
+        <label for="{{ include.id }}-{{ img.id }}">
+          {{ img.label }}
+        </label>
+      {% endfor %}
+    </div>
+
+  </div>
+  {% endif %}
+
+  <table>
+    {% for row in include.data.info %}
+      <tr>
+        <td><b>{{ row[0] }}</b></td>
+        <td>{{ row[1] }}</td>
+      </tr>
+    {% endfor %}
+
+    {% if include.data.extra %}
+      {% for row in include.data.extra %}
+        <tr>
+          <td><b>{{ row[0] }}</b></td>
+          <td>{{ row[1] }}</td>
+        </tr>
+      {% endfor %}
+    {% endif %}
+  </table>
+</div>
