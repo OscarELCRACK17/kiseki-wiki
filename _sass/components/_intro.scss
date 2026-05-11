@@ -1,0 +1,42 @@
+.intro-box {
+  margin-top: 15px;
+}
+
+.intro-buttons {
+  display: flex;
+  gap: 5px;
+  margin-bottom: 10px;
+}
+
+.intro-buttons button {
+  background: #1c1f26;
+  color: white;
+  border: none;
+  padding: 6px 10px;
+  cursor: pointer;
+  font-size: 13px;
+  border-radius: 4px;
+}
+
+.intro-buttons button:hover {
+  color: #ffd700;
+}
+
+.intro-buttons button.active {
+  color: #ffd700;
+}
+.intro-header {
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: black;
+}
+
+.intro-block {
+  display: none;
+  padding: 5px 0;
+}
+
+.intro-block.active {
+  display: block;
+}

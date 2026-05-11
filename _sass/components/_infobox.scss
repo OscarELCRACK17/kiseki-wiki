@@ -9,6 +9,14 @@
   font-size: 14px;
   border: 1px solid rgba(19, 98, 208, 0.1);
 }
+.infobox a {
+  color: #ffe066;
+  font-weight: 500;
+}
+
+.infobox a:hover {
+  color: #fff3b0;
+}
 
 .infobox-title {
   font-size: 20px;

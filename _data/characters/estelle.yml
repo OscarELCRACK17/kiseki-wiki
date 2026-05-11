@@ -12,10 +12,20 @@ images:
   - id: cs
     src: /assets/characters/estelle_cs.png
     label: CS
+intro:
+  - id: fc
+    text: >
+      Una chica del Reino de Liberl se entrena para convertirse en Bracer con el fin de proteger la seguridad de los civiles y la paz de las ciudades. Es una chica brillante, extrovertida y optimista que nunca se rinde, sin importar la situación. Su naturaleza sincera la lleva a confiar fácilmente en los demás, y sus acciones suelen ser impulsivas. Entrenada por su padre, un Bracer veterano, posee considerables habilidades de combate. Durante los últimos cinco años, se ha esforzado por convertirse en Bracer Mayor junto a su hermano menor adoptivo, Joshua.
+  - id: zero
+    text: >
+      Estelle, una de las protagonistas de la serie Trails in the Sky, es una joven decidida y alegre que casi siempre va a toda máquina. En el pasado, tenía un carácter algo más impulsivo, pero gracias a sus viajes ha madurado bastante. A pesar de su corta edad, ella y Joshua ya son bracers muy capaces con numerosos logros en su haber. La SSS los considera feroces rivales, pero dada la enorme diferencia en sus niveles de habilidad, la verdad es que se trata de una rivalidad bastante desigual.
+  - id: cs4
+    text: >
+      Una bracer veterana del Reino Liberl, cuyo padre, Cassius Bright, es el comandante de sus fuerzas armadas. Fue ascendida a Bracer veterana a la temprana edad de 16 años y desempeñó un papel clave en salvar a su país del golpe de estado de la División de Inteligencia Liberliana y del incidente del Apagón Orbal. Tras conocer a Renne, una joven que era Ejecutora en Ouroboros, ella y Joshua la convencieron de que los dejara atrás y se uniera a su familia. Con la situación bajo control por el momento, Estelle continuó con su trabajo como bracer, mientras recababa información por todo el oeste de Zemuria. Tras escuchar rumores inquietantes sobre la explosión del Courageous y la ruptura de las relaciones diplomáticas entre Erebonia y Calvard, Estelle, con Joshua y Renne a su lado, parte en busca de la verdad.    
 
 info:
   - ["Debut", "Trails in the Sky FC"]
-  - ["Aparece en", "FC, SC, the 3rd, Zero, Azure, Cold Steel III (mención), Cold Steel IV, Reverie, Daybreak (mención)"]
+  - ["Aparece en", "[Sky FC](/es/sagas/sky/fc/), [Sky SC](/es/sagas/sky/sc/), [Sky the 3rd](/es/sagas/sky/the-3rd/), [Zero](/es/sagas/crossbell/zero/), [Azure](/es/sagas/crossbell/azure/), [Cold Steel III](/es/sagas/cold-steel/iii/) *(mención)*, [Cold Steel IV](/es/sagas/cold-steel/iv/), [Reverie](/es/sagas/reverie/), [Daybreak](/es/sagas/calvard/kuro-i/) *(mención)*"]
   - ["Nacionalidad", "Liberliana"]
   - ["Edad", "16–17 (Sky), 18 (Crossbell), 19–20 (Cold Steel IV)"]
   - ["Fecha de nacimiento", "S.1186 / 8 / 7"]
@@ -23,7 +33,7 @@ info:
   - ["Estado", "Viva"]
   - ["Afiliación", "Bracer Guild"]
   - ["Ocupación", "Bracer"]
-  - ["Familia", "Cassius Bright (padre), Lena Bright (madre), Joshua Bright (hermano adoptivo)"]
+  - ["Familia", "Cassius Bright (padre), Lena Bright (madre), [Joshua Bright](/es/characters/joshua-bright/) (hermano adoptivo)"]
   - ["Hobbies", "Pescar, coleccionar zapatillas, atrapar insectos"]
   - ["Le gusta", "Omurice, helado"]
   - ["No le gusta", "Fantasmas"]

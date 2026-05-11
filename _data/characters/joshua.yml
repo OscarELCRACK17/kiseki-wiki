@@ -13,9 +13,22 @@ images:
     src: /assets/characters/joshua_cs.png
     label: CS
 
+intro:
+  - id: fc
+    text: >
+      Un joven adoptado por la familia Bright hace cinco años. Es apuesto, con cabello negro azabache y ojos color ámbar. Es tranquilo, sereno e inteligente; a menudo tiene que vigilar a Estelle, quien suele ir siempre por delante. Es un bracer joven, igual que ella, y su arma predilecta es un par de afiladas espadas de doble filo.
+  - id: zero
+    text: >
+      Joshua es uno de los protagonistas de la serie Trails in the Sky. Es el hermano adoptivo de Estelle, su pareja sentimental y también bracer. Ambos viajaron desde Liberl para trabajar en la sucursal del Gremio de Bracers de Crossbell por una razón específica. Joshua es un antiguo miembro de la sociedad secreta conocida como Ouroboros y conserva sus letales habilidades de su época como Ejecutor n.° XIII, el Colmillo Negro.
+  - id: cs4
+    text: >
+      Joshua, un bracer veterano originario de Erebonia, es a la vez compañero y amante de Estelle. Nacido en Hamel, es uno de los pocos supervivientes de la tragedia que allí tuvo lugar. Poco después se unió a Ouroboros como el Ejecutor n.º XIII, el Colmillo Negro. Durante su tiempo en la sociedad, Joshua llevó a cabo numerosas misiones de espionaje y asesinato. Sin embargo, fue rescatado por Cassius y Estelle. Se unió a la familia Bright y eligió el camino de bracer. Durante su trabajo como bracer, terminó asociándose con la SSS para ayudar a resolver el incidente de la secta en Crossbell. Posteriormente, él y Estelle dieron la bienvenida a Renne a su familia.    
+
+
 info:
   - ["Debut", "Trails in the Sky FC"]
   - ["Alias", "The Black Fang, Joshua Astray"]
+  - ["Aparece en", "[Sky FC](/es/sagas/sky/fc/), [Sky SC](/es/sagas/sky/sc/), [Sky the 3rd](/es/sagas/sky/the-3rd/), [Zero](/es/sagas/crossbell/zero/), [Azure](/es/sagas/crossbell/azure/), [Cold Steel III](/es/sagas/cold-steel/iii/) *(mención)*, [Cold Steel IV](/es/sagas/cold-steel/iv/), [Reverie](/es/sagas/reverie/), [Daybreak](/es/sagas/calvard/kuro-i/) *(mención)*"]
   - ["Nacionalidad", "Ereboniana"]
   - ["Edad", "16–17 (Sky), 18–19 (Zero/Azure), 20 (CS4), 21 (Reverie)"]
   - ["Fecha de nacimiento", "S.1185 / 12 / 20 (Viernes)"]
@@ -23,7 +36,7 @@ info:
   - ["Estado", "Vivo"]
   - ["Afiliación", "Bracer Guild (actual), Ouroboros (anterior)"]
   - ["Ocupación", "Bracer, antiguo asesino de Ouroboros"]
-  - ["Familia", "Karin Astray (hermana), Cassius Bright (padre adoptivo), Estelle Bright (hermana adoptiva / pareja), Renne Bright (hermana adoptiva), Loewe (cuñado)"]
+  - ["Familia", "Karin Astray (hermana), Cassius Bright (padre adoptivo), [Estelle Bright](/es/characters/estelle-bright/) (hermana adoptiva / pareja), Renne Bright (hermana adoptiva), Loewe (cuñado)"]
   - ["Hobbies", "Tocar la armónica, leer, reparar armas"]
   - ["Le gusta", "Armónica"]
   - ["Género", "Masculino"]
