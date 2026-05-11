@@ -26,18 +26,23 @@
       <a href="{{ '/jp/' | relative_url }}">JP</a>
     </div>
   </div>
+  
+  <!-- LAYOUT -->
+  <div class="layout">
 
-  <!-- SIDEBAR -->
-  <div class="sidebar">
-    {% include sidebar.html %}
-  </div>
-
-  <!-- CONTENT -->
-  <div class="content">
-    <h1>{{ page.title }}</h1>
-    <div>
-      {{ content }}
+    <!-- SIDEBAR -->
+    <div class="sidebar">
+      {% include sidebar.html %}
     </div>
+
+    <!-- CONTENT -->
+    <div class="content">
+      <h1>{{ page.title }}</h1>
+      <div>
+        {{ content }}
+      </div>
+    </div>
+
   </div>
 
 </body>

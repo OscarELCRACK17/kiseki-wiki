@@ -73,8 +73,6 @@ body::before {
   color: white;
   height: calc(100vh - 50px);
   padding: 20px;
-  position: fixed;
-  top: 50px;
   overflow-y: auto;
 }
 
@@ -108,11 +106,11 @@ body::before {
 ========================= */
 
 .content {
-  margin-left: 270px;
   padding: 30px;
   max-width: 900px;
-  margin-top: 70px;
+  margin: 0 auto;
   background: white;
+  flex: 1;
 }
 
 /* título de página */
@@ -194,4 +192,8 @@ h1 {
     width: 100%;
     margin: 0 0 20px 0;
   }
+}
+.layout {
+  display: flex;
+  margin-top: 50px; /* topbar height */
 }
