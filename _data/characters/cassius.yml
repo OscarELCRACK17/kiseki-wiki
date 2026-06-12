@@ -1,0 +1,46 @@
+name: Cassius Bright
+
+images:
+  - id: fc
+    src: /assets/characters/cassius_fc.jpeg
+    label: FC
+
+  - id: sc
+    src: /assets/characters/cassius_sc.jpeg
+    label: SC
+
+  - id: cs
+    src: /assets/characters/cassius_cs4.jpeg
+    label: CS
+
+intro:
+  - id: fc
+    text: >
+      El padre de Estelle. Un hombre de mediana edad con un físico bien tonificado y un llamativo bigote de dandi. Como veterano bracer, también es el maestro de Estelle, Joshua y Scherazard.
+  - id: cs4
+    text: >
+      El legendario comandante del Ejército Real de Lirel, conocido por derrotar al Ejército Imperial en la Guerra de los Cien Días hace 14 años. Tras estudiar con Yun Ka-fai de la Escuela de las Ocho Hojas, una Espada, Cassius dominó el estilo y es conocido como la Espada Divina. Se retiró del ejército tras la muerte de su esposa en la Guerra de los Cien Días, dedicándose a ayudar a la gente como bracer. Sus hazañas en Zemuria le valieron el ascenso a bracer de rango S, un rango que solo se concede a un selecto grupo de personas. Tras el ataque a las ramas del gremio de Erebon y el golpe de estado en Libel, regresó al servicio activo en el ejército. Desde entonces, Cassius ha estado ayudando a reconstruir el Ejército Real de Lirel, trabajando junto al Príncipe Olivert para vigilar los movimientos sospechosos del gobierno de Erebon.    
+
+
+info:
+  - ["Debut", "Trails in the Sky FC"]
+  - ["Alias", "The Divine Blade"]
+  - ["Aparece en", "[Sky FC](/es/sagas/sky/fc/), [Sky SC](/es/sagas/sky/sc/), [Sky the 3rd](/es/sagas/sky/the-3rd/), [Zero](/es/sagas/crossbell/zero/), [Azure](/es/sagas/crossbell/azure/) *(mención)*, [Cold Steel III](/es/sagas/cold-steel/iii/) *(mención)*, [Cold Steel IV](/es/sagas/cold-steel/iv/), [Reverie](/es/sagas/reverie/), [Daybreak](/es/sagas/calvard/kuro-i/) *(mención)*, [Daybreak II](/es/sagas/calvard/kuro-ii/) *(mención)*, [Beyond the Horizon](/es/sagas/calvard/horizon/) *(mención)*"]
+  - ["Nacionalidad", "Liberliana"]
+  - ["Edad", "45 (Sky), 49 (CS4)"]
+  - ["Fecha de nacimiento", "S.1157"]
+  - ["Lugar de nacimiento", "Liberl"]
+  - ["Estado", "Vivo"]
+  - ["Afiliación", "Ejército Real de Liberl, Gremio de Bracers (antiguo)"]
+  - ["Ocupación", "Teniente General, General de Brigada (anterior), Bracer (anterior)"]
+  - ["Familia", "Lena Bright (esposa, fallecida), Estelle Bright (hija), Joshua Bright (hijo adoptivo), Renne Bright(hija adoptiva)"]
+  - ["Género", "Masculino"]
+  - ["Altura", "181 cm"]
+  - ["Ojos", "Ámbar claro"]
+  - ["Cabello", "Castaño"]
+  - ["Arma", "Bastón, Espada(anterior)"]
+  
+extra:
+  - ["CV (JP)",     Yukimasa Kishino/Kenji Hamada (Sky 1st Chapter)"]
+  - ["CV (EN)", "Kyle Hebert"]
+  - ["CV (Anime OVA)", "Yukimasa Kishino"]
