@@ -1,5 +1,7 @@
 const titles = {
   fc: "Trails in the Sky FC",
+  sc: "Trails in the Sky SC",
+  third: "Trails in the Sky 3rd",
   zero: "Trails from Zero",
   cs4: "Trails of Cold Steel IV"
 };

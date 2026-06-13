@@ -1,0 +1,47 @@
+name: Scherazard Harvey
+
+images:
+  - id: fc
+    src: /assets/characters/scherazard_fc.jpeg
+    label: FC
+
+  - id: sc
+    src: /assets/characters/scherazard_sc.jpeg
+    label: SC
+
+  - id: cs
+    src: /assets/characters/scherazard_cs4.jpeg
+    label: CS
+intro:
+  - id: fc
+    text: >
+      Una Bracer veterana conocida como "Silver Streak". Posee un físico atlético y bien entrenado, además de una belleza cautivadora. Fue aprendiz del padre de Estelle, Cassius, y es como una hermana mayor para Estelle y los demás. Tiene una personalidad cariñosa y protectora, pero también es conocida por su afición al alcohol y tiende a volverse un poco demasiado apegada cuando está ebria. Como mentora influyente, vela por Estelle y los demás, ofreciéndoles apoyo y orientación en su desarrollo.
+  - id: sc
+    text: >
+      Una bracer femenina conocida con el apodo de "Silver Streak". Es como una hermana para Estelle y tiene la mala costumbre de beber en exceso. Mientras ayuda a Estelle en su viaje, investigando los movimientos de la misteriosa organización "Ouroboros" que manipulaba el golpe de estado entre bastidores, se revela su sorprendente pasado.
+  - id: third  
+    text: >
+      Una bracer femenina conocida con el apodo de "Silver Streak". Incluso después de que Estelle y Joshua emprendieran su viaje, sigue activa en la Capital Real y Rolent, y su buen juicio la ha convertido en una líder entre las bracers más jóvenes. Sin embargo, su afición a la bebida y su estilo de vida despreocupado se han mantenido prácticamente intactos. Hace aproximadamente un mes, por alguna razón, se cortó el pelo y empezó a usar ropa de trabajo nueva.
+  - id: cs4
+    text: >
+      También conocida como Silver Streak, Scherazard es una bracer de rango A del Gremio de Bracers de Liberia. Fue entrenada por Cassius durante su época como bracer, y Estelle la considera como una hermana mayor. Scherazard conoció al príncipe Olivert hace cuatro años durante los incidentes en Liberl y desde entonces han mantenido un contacto estrecho. Cuando el Gremio de Bracers detectó un brote de jaegers y agentes de Ouroboros en Erebonia, ella acudió allí con su compañera bracer de rango A, Agate. Cuando el Gral de Erebos se manifestó en Heimdallr, presenció la explosión del Courageous... con Olivert a bordo.    
+
+info:
+  - ["Debut", "Trails in the Sky FC"]
+  - ["Aparece en", "[Sky FC](/es/sagas/sky/fc/), [Sky SC](/es/sagas/sky/sc/), [Sky the 3rd](/es/sagas/sky/the-3rd/), [Azure](/es/sagas/crossbell/azure/) *(mención)*, [Cold Steel III](/es/sagas/cold-steel/iii/) *(mención)*, [Cold Steel IV](/es/sagas/cold-steel/iv/), [Reverie](/es/sagas/reverie/), [Daybreak](/es/sagas/calvard/kuro-i/) *(mención)*, [Beyond the Horizon](/es/sagas/calvard/horizon/) *(mención)*"]
+  - ["Nacionalidad", "Liberliana"]
+  - ["Edad", "23 (Sky), 27 (Cold Steel IV)"]
+  - ["Fecha de nacimiento", "S.1179/5/14 (Lunes)"]
+  - ["Estado", "Viva"]
+  - ["Afiliación", "Bracer Guild"]
+  - ["Ocupación", "Bracer"]
+  - ["Parientes", "Olivert Reise Arnor (esposo), Eugent Reise Arnor III (suegro), Priscilla Reise Arnor (suegra), Cedric Reise Arnor (cuñado), Alfin Reise Arnor (cuñada)"]
+  - ["Género", "Femenino"]
+  - ["Le gusta", "La Bebida"]
+  - ["Altura", "167 cm"]
+  - ["Ojos", "Azul"]
+  - ["Arma", "Látigo"]
+
+extra:
+  - ["CV (JP)", "Yuka Shioyama / Chika Anzai (Sky 1st Chapter)"]
+  - ["CV (EN)", "Michelle Ruff / Shelley Calene Black (OVA)"]

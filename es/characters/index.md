@@ -18,6 +18,7 @@ Aquí puedes explorar personajes organizados por saga.
 - [Estelle Bright](/es/characters/estelle-bright/)
 - [Joshua Bright](/es/characters/joshua-bright/)
 - [Cassius Bright](/es/characters/cassius-bright/)
+- [Scherazard Harvey](/es/characters/scherazard-harvey/)
 
 ---
 
