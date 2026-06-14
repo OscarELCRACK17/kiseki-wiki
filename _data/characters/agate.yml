@@ -1,0 +1,49 @@
+name: Agate Crosner
+
+images:
+  - id: fc
+    src: /assets/characters/agate_fc.jpeg
+    label: FC
+
+  - id: sc
+    src: /assets/characters/agate_sc.jpeg
+    label: SC
+
+  - id: cs
+    src: /assets/characters/agate_cs3.jpeg
+    label: CS
+
+intro:
+  - id: fc
+    text: >
+      Un joven Bracer con la fuerza suficiente para blandir una enorme espada, lo que le ha valido el apodo de "Hoja Pesada".
+      
+      De carácter brusco y maleducado, suele tratar con dureza a los inexpertos Estelle y Joshua. Sin embargo, su habilidad como Bracer es innegable y goza de la profunda confianza de quienes lo rodean. Al parecer, está investigando un caso en particular, recabando información mientras viaja solo por el Reino de Liberl.
+  - id: cs3
+    text: >
+      Un bracer de rango A del Reino de Liberl, conocido por su título, "Hoja Pesada", debido a la enorme espada que maneja con facilidad. Gracias a su ayuda para resolver el incidente en Liberl hace cuatro años, fue ascendido a rango A. A partir de entonces, acumuló numerosos logros impresionantes, tanto en Lirel como en el extranjero. Con el tiempo, se convirtió en uno de los mejores talentos del Gremio de Bracers. Tras la Guerra Civil de Erebonia, se enteró de que Ouroboros y varios cuerpos de jaegers habían comenzado a moverse por Erebonia. Dado que el gremio de bracers casi había sido expulsado del imperio, los pocos bracers que quedaban se encontraban en una situación crítica. Esto, sumado a una petición de su viejo amigo, el Príncipe Olivert, llevó a Agate a viajar al imperio para prestar ayuda. Aunque todavía le preocupa que Tita asista al campus filial de Thors, ha emprendido su propia misión: buscar la verdad detrás de un trágico suceso ocurrido hace 14 años.
+  - id: reverie
+    text: >
+      Un bracer de rango A con un espíritu indomable llamado Espada Pesada. Conocido por su enorme espada y su habilidad para cumplir con su deber sin importar la dificultad, fue una figura clave en la resolución de un grave incidente ocurrido en su reino natal. Tras ingresar a Erebonia como bracer, prestó su ayuda al campus filial de Thors y a la nueva Clase VII siempre que la necesitaron. También luchó junto a sus compañeros de siempre, como Estelle, contra el Gran Crepúsculo. Tiene un vínculo inquebrantable con Tita, una chica a la que ha cuidado desde que se conocieron hace años. Incluso continuó apoyando sus experimentos de ingeniería mientras trabajaba como bracer. Por supuesto, su sobreprotectora madre no estaba nada contenta con esto, y desde entonces se ha esforzado por causarle un sinfín de dolores de cabeza (que ponen en peligro su vida).
+
+info:
+  - ["Debut", "Trails in the Sky FC"]
+  - ["Alias", "Heavy Blade"]
+  - ["Aparece en", "[Sky FC](/es/sagas/sky/fc/), [Sky SC](/es/sagas/sky/sc/), [Sky the 3rd](/es/sagas/sky/the-3rd/), [Cold Steel III](/es/sagas/cold-steel/iii/), [Cold Steel IV](/es/sagas/cold-steel/iv/), [Reverie](/es/sagas/reverie/)"]
+  - ["Nacionalidad", "Liberliana"]
+  - ["Edad", "24-25 (Sky), 28 (CS3)"]
+  - ["Fecha de nacimiento", "S.1178/7/30"]
+  - ["Lugar de nacimiento", "Pueblo de Ravennue, Liberl"]
+  - ["Estado", "Vivo"]
+  - ["Afiliación", "Gremio de Bracers, Los Cuervos(antiguo) "]
+  - ["Ocupación", "Bracer"]
+  - ["Familia", "Mischa Crosner (hermana)"]
+  - ["Género", "Masculino"]
+  - ["Altura", "178 cm"]
+  - ["Ojos", "Verde azulado"]
+  - ["Cabello", "Rojo"]
+  - ["Arma", "Gran espada"]
+  
+extra:
+  - ["CV (JP)", "Akayuki Kondo/Taku Yashiro (Trails in the Sky remake)"]
+  - ["CV (EN)", "Bryce Papenbrook/Ben Pronsky (Cold Steel onwards and Sky remake)"]

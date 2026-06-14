@@ -13,7 +13,7 @@ permalink: /es/characters/cassius-bright/
   data=character
 %}
 
----
+
 Cassius Bright, también conocido como la Espada Divina, es un teniente general del Ejército Real de Liberl y un antiguo bracer de rango S.
 
 ---

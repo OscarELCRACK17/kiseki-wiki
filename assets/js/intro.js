@@ -3,7 +3,9 @@ const titles = {
   sc: "Trails in the Sky SC",
   third: "Trails in the Sky 3rd",
   zero: "Trails from Zero",
-  cs4: "Trails of Cold Steel IV"
+  cs3: "Trails of Cold Steel III",
+  cs4: "Trails of Cold Steel IV",
+  reverie: "Trails into Reverie"
 };
 
 function showIntro(id, event) {

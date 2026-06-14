@@ -13,7 +13,7 @@ permalink: /es/characters/scherazard-harvey/
   data=character
 %}
 
----
+
 Scherazard Harvey, también conocida como la Raya Plateada, es una bracer de rango A afiliada a las ramas de Liberl. Sus amigos y familiares la llaman Schera.
 
 ---

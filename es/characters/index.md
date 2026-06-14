@@ -19,6 +19,7 @@ Aquí puedes explorar personajes organizados por saga.
 - [Joshua Bright](/es/characters/joshua-bright/)
 - [Cassius Bright](/es/characters/cassius-bright/)
 - [Scherazard Harvey](/es/characters/scherazard-harvey/)
+- [Agate Crosner](/es/characters/agate-crosner/)
 
 ---
 

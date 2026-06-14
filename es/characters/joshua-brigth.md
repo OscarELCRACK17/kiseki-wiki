@@ -13,7 +13,7 @@ permalink: /es/characters/joshua-bright/
   data=character
 %}
 
----
+
 Joshua Bright, anteriormente conocido como Joshua Astray y el Colmillo Negro, es miembro del Gremio de Bracers en Liberl y el antiguo Ejecutor n.° XIII de Ouroboros. Es el deuteragonista de Trails in the Sky FC y SC, y un aliado recurrente en el resto de la serie.
 
 ---
