@@ -20,6 +20,7 @@ Aquí puedes explorar personajes organizados por saga.
 - [Cassius Bright](/es/characters/cassius-bright/)
 - [Scherazard Harvey](/es/characters/scherazard-harvey/)
 - [Agate Crosner](/es/characters/agate-crosner/)
+- [Kloe Rinz](/es/characters/kloe-rinz/)
 
 ---
 

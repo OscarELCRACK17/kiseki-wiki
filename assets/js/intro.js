@@ -3,6 +3,7 @@ const titles = {
   sc: "Trails in the Sky SC",
   third: "Trails in the Sky 3rd",
   zero: "Trails from Zero",
+  azure: "Trails to Azure",
   cs3: "Trails of Cold Steel III",
   cs4: "Trails of Cold Steel IV",
   reverie: "Trails into Reverie"

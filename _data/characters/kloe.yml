@@ -1,0 +1,47 @@
+name: Kloe Rinz
+
+images:
+  - id: fc
+    src: /assets/characters/kloe_fc.jpeg
+    label: FC
+
+  - id: sc
+    src: /assets/characters/kloe_sc.jpeg
+    label: SC
+
+  - id: cs
+    src: /assets/characters/kloe_cs4.jpeg
+    label: CS
+
+intro:
+  - id: fc
+    text: >
+      Estudiante de la prestigiosa Academia Real de Jenis, en la región de Ruan. En sus días libres, ayuda en un orfanato cercano, donde su bondad y dulzura le han granjeado la confianza de los niños y de la directora. Aunque no hablan el mismo idioma, comparte un vínculo muy especial con el halcón blanco Sieg. Conoce a Estelle y Joshua durante una visita a un pueblo cercano por asuntos relacionados con el orfanato.
+  - id: azure
+    text: >
+      La princesa heredera del Reino de Liberl ha llegado a Crossbell a bordo del Arseille para asistir a una conferencia internacional en lugar de su abuela, la reina Alicia II. La acompaña su compañero, un halcón gerifalte llamado Sieg.
+  - id: cs4
+    text: >
+      Descendiente de la familia Auslese, herederos del Sept-Terrion del Espacio, Klaudia es la heredera al trono de Liberl. Durante su época de estudiante en la Real Academia Jenis, ocultó su verdadera identidad. Fue entonces cuando conoció a Estelle y Joshua, y acabó uniéndose a ellos para ayudar a resolver los incidentes en Liberl. Gracias a sus viajes, comprendió el camino que debía seguir y disipó las dudas que tenía sobre asumir el trono. Cuando descubre que la guerra entre Erebonia y Calvard es inminente, comienza a actuar como Princesa Heredera de Liberl.
+
+info:
+  - ["Debut", "Trails in the Sky FC"]
+  - ["Nombre real", "Klaudia von Auslese"]
+  - ["Aparece en", "[Sky FC](/es/sagas/sky/fc/), [Sky SC](/es/sagas/sky/sc/), [Sky the 3rd](/es/sagas/sky/the-3rd/), [Cold Steel III](/es/sagas/cold-steel/iii/), [Azure](/es/sagas/crossbell/azure/), [Cold Steel IV](/es/sagas/cold-steel/iv/), [Reverie](/es/sagas/reverie/)"]
+  - ["Nacionalidad", "Liberliana"]
+  - ["Edad", "16-17 (Sky FC, Sky SC, Sky 3rd), 18 (Azure), 20 (CS4)"]
+  - ["Fecha de nacimiento", "S.1186/10/11 (Sábado)"]
+  - ["Lugar de nacimiento", "Grancel, Capital de Liberl"]
+  - ["Estado", "Vivo"]
+  - ["Afiliación", "Real Academia Jenis, Familia de Liberl "]
+  - ["Ocupación", "Estudiante de la Real Academia Jenis (anterior), Princesa Heredera de Liberl"]
+  - ["Familia", "Edgar von Auslese (bisabuelo), Alicia von Auslese (abuela), Dunan von Auslese (primo hermano, una vez destituido), Judis (padre)"]
+  - ["Género", "Femenino"]
+  - ["Altura", "158 cm"]
+  - ["Ojos", "Púrpura"]
+  - ["Cabello", "Púrpura"]
+  - ["Arma", "Estoque"]
+  
+extra:
+  - ["CV (JP)", "Yuko Minaguchi / Hina Yōmiya (Sky 1st Chapter)"]
+  - ["CV (EN)", "Cristina Valenzuela / Rozie Curtis (OVA)"]
