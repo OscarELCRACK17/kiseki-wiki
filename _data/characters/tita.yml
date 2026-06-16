@@ -1,0 +1,55 @@
+name: Tita Russell
+
+images:
+  - id: fc
+    src: /assets/characters/tita_fc.jpeg
+    label: FC
+
+  - id: sc
+    src: /assets/characters/tita_sc.jpeg
+    label: SC
+
+  - id: cs
+    src: /assets/characters/tita_cs3.jpeg
+    label: CS
+intro:
+  - id: fc
+    text: >
+      La nieta del científico de Orbment, el profesor Russell. Cálida y alegre, posee una naturaleza sincera y de buen corazón que la hace querida por todos. Nacida en una familia de ingenieros, siente una profunda pasión por las máquinas. Su único defecto es que se distrae fácilmente mientras las manipula. Estelle y Joshua empiezan a mimar a Tita poco después de conocerla, y ella llega a considerarlos como los hermanos mayores que nunca tuvo.
+  - id: sc
+    text: >
+      La nieta del científico Orbment, el profesor Russell, y una gran aficionada a las máquinas orbiculares. Desde que conoció a Estelle, los quiere a ellos y a Joshua como si fueran sus hermanos. Aunque le entristece profundamente que Joshua haya dejado a Estelle, se esfuerza por mantener el ánimo.
+  - id: third  
+    text: >
+      Tita es ingeniera aprendiz en la Fábrica Central de Zeiss. Inspirada por la nueva investigación que sus padres han iniciado tras dos años y medio de ausencia, ha comenzado a explorar su propio camino como investigadora y busca respuestas.
+
+      Su padre, Dan, empezó a enseñarle a cocinar. Agate ha sido invitado a probar los platos de Tita, pero le desconcierta que Erika, su madre, parezca guardarle cierto rencor...
+  - id: cs3
+    text: >
+      Una joven del Reino de Liberl. Creció en una ciudad llamada Zeiss, conocida por su innovadora tecnología orbal. Por ello, adora la maquinaria de todo tipo. Su abuelo es el brillante científico orbal, el Dr. Russell. Es miembro de la Clase IX: Finanzas Militares. Hace cuatro años, trabajó como representante de la Fábrica Central de Zeiss junto a un grupo de bracers —una de las cuales era Agate— para resolver el incidente del Apagón Orbal. Después de que el Príncipe Olivert —otro de sus aliados— le informara de los extraños sucesos que se desarrollaban en el imperio, se matriculó en el campus filial como estudiante de intercambio, a pesar de la firme oposición de su madre. Comienza a estudiar con el Profesor Schmidt para aprender más sobre la tecnología orbal y ver con sus propios ojos los Panzer Soldats y los proyectiles de combate.
+  - id: reverie
+    text: >
+      Originaria de Liberlia, estudió en el extranjero en la Clase IX de la Academia Militar Thors. Su abuelo, el profesor Russell, fue uno de los tres discípulos del profesor Epstein. Su apariencia inocente oculta una mente aguda y estable, y las habilidades que perfeccionó como Russell le valieron la aprobación del siempre estricto profesor G. Schmidt, con quien ahora estudia como su cuarta discípula. Cabalgó valientemente hacia el frente durante el Gran Crepúsculo utilizando su recién desarrollado Orbal Gear III. Gracias a esto y a todo el conocimiento adquirido a lo largo de los años, se mantuvo firme en su apoyo a la antigua y nueva Clase VII hasta el final. Tras el desastre, regresó al campus filial y, con el pleno apoyo de Agate, ha estado trabajando con la Compañía Reinford y la Fundación Epstein para centrarse en el desarrollo del próximo Orbal Gear.
+
+info:
+  - ["Debut", "Trails in the Sky FC"]
+  - ["Aparece en", "[Sky FC](/es/sagas/sky/fc/), [Sky SC](/es/sagas/sky/sc/), [Sky the 3rd](/es/sagas/sky/the-3rd/), [Cold Steel III](/es/sagas/cold-steel/iii/), [Cold Steel IV](/es/sagas/cold-steel/iv/), [Reverie](/es/sagas/reverie/), [Daybreak](/es/sagas/calvard/kuro-i/) *(mención)*, [Daybreak II](/es/sagas/calvard/kuro-ii/) *(mención)*, [Beyond the Horizon](/es/sagas/calvard/horizon/) *(mención)*"]
+  - ["Nacionalidad", "Liberliana"]
+  - ["Edad", "12 (Sky FC, Sky SC), 13 (Sky 3rd), 16 (CS III-IV), 17 (Reverie)"]
+  - ["Fecha de nacimiento", "S.1190/5/7[2] (Lunes)"]
+  - ["Lugar de nacimiento", "Ciudad de Zeiss, Liberl"]
+  - ["Estado", "Viva"]
+  - ["Afiliación", "Campus sucursal de Thors, Fábrica central de Zeiss"]
+  - ["Ocupación", "Bracer"]
+  - ["Parientes", "Albert Russell (abuelo), Erika Russell (madre), Dan Russell (padre)"]
+  - ["Género", "Femenino"]
+  - ["Le gusta", "Amarillo, naranja, rojo (colores)"]
+  - ["Altura", "136 cm (Sky 1st Chapter), 156 cm (CS III)"]
+  - ["Medidas", "P76 / C55 / C80 (CS III)"]
+  - ["Ojos", "Azul claro"]
+  - ["Cabello", "Rubia"]
+  - ["Arma", "Cañon Orbal"]
+
+extra:
+  - ["CV (JP)", "Hiromi Konno / Hikaru Iida (Sky remake)"]
+  - ["CV (EN)", "Julie Maddalena / Brianna Knickerbocker (Cold Steel and Sky remake) / Hilary Haag (OVA)"]
