@@ -1,0 +1,57 @@
+name: Olivier Lenheim
+
+images:
+  - id: fc
+    src: /assets/characters/olivier_fc.jpeg
+    label: FC
+
+  - id: sc
+    src: /assets/characters/olivier_sc.jpeg
+    label: SC
+
+  - id: cs
+    src: /assets/characters/olivier_cs3.jpeg
+    label: CS
+intro:
+  - id: fc
+    text: >
+      Un misterioso músico viajero del gran imperio ereboniano, nación del norte. Dotado de un gran talento musical, puede tocar desde el piano hasta el laúd, pero tiende a ser extremadamente egocéntrico. A menudo confunde a quienes lo rodean con sus palabras y acciones impredecibles, pero esa misma imprevisibilidad también resulta útil en ocasiones. Posee una aguda intuición, pues descubrió al instante la verdadera identidad de Estelle y los demás en su primer encuentro. Se desconoce por completo el motivo y el propósito de su visita al Reino Liberl.
+  - id: sc
+    text: >
+      Un músico itinerante procedente de la superpotencia del norte, el Imperio de Erebonia. Es un músico talentoso que puede tocar de todo, desde el piano hasta el laúd, pero tiene una personalidad extremadamente jovial. Incluso después de que termine la celebración del cumpleaños de la Reina, no parece tener intención de volver a su ciudad natal, y en cambio se divierte haciendo viajes a aguas termales y demás, lo que le causa un dolor de cabeza a su amigo de la infancia y compañero Mueller.
+  - id: third  
+    text: >
+      Olivert Reise Arnor, príncipe del Imperio Erebonia, no se encuentra en la línea de sucesión al trono por ser hijo ilegítimo. Hace seis meses, fue recibido con gran honor como héroe por haber evitado el incidente durante su regreso a Erebonia en Arseille, lo que lo catapultó a la fama. Actualmente, está consolidando su posición participando en diversos eventos, tanto oficiales como sociales, con el objetivo de aumentar su poder político y rivalizar con el de la Canciller de Sangre y Hierro, Giliath Osborne.
+  - id: azure
+    text: >
+      El príncipe de Erebonia y un espíritu libre de notoria desinhibición. Es uno de los personajes principales de los juegos de Trails in the Sky. En Trails to Azure, Olivert visita Crossbell por razones conocidas y desconocidas...
+  - id: cs
+    text: >
+      Hijo mayor del emperador Eugenio III, es un príncipe conocido por su carácter romántico. Al ser hijo ilegítimo, no está en la línea de sucesión al trono, pero quizás por su libertad se ha hecho famoso recientemente, apareciendo con frecuencia en la alta sociedad y en los medios de comunicación. Es el director de la Academia Militar Thors y fue alumno del director Vandyck. Además de participar en la creación de la Clase VII, también dirigió la construcción del avión de alta velocidad «Valiente» y está intentando frenar las ambiciones de cierta persona reprimiendo el conflicto dentro del Imperio.
+  - id: cs2
+    text: >
+      Hijo mayor de Su Majestad el Emperador Eugenio III y presidente del consejo de administración de la Academia Militar Thors. Como muchos, se desconoce su situación actual desde el estallido de la guerra, pero quienes lo conocen personalmente confían en que está haciendo todo lo posible por poner fin al conflicto que asola el país. Tiene una marcada inclinación por lo inusual y su comportamiento pasa de respetable a reprobable en un abrir y cerrar de ojos, pero gracias a la influencia de su querido amigo y confidente Mueller Vander, la mayoría de los ciudadanos de Erebonia lo conocen por sus cualidades más virtuosas.
+  - id: cs3
+    text: >
+      Olivert, el hijo mayor del emperador de Erebonia, fue el responsable de reunir a la Clase VII original. Aunque es conocido como el "Príncipe Libertino", renunció a su derecho al trono años atrás para evitar los problemas derivados de que su madre fuera plebeya. Durante la guerra civil, dejó la aeronave que había encargado, la Valiente, en la Academia Militar Thors y se dirigió al oeste de Erebonia para brindar ayuda a los afectados por la guerra a través de su organización "Vientos de Libertad". Como resultado de la guerra civil, el Canciller Osborne logró debilitar gravemente la posición de la nobleza, lo que le permitió hacerse con el control absoluto de la nación. Osborne procedió a invadir territorios vecinos y a expulsar a los Vanders de su puesto como guardianes de la familia imperial. En poco tiempo, Olivert perdió gran parte de su poder y su capacidad para oponerse al Canciller. En el año 1206, tras enterarse de la militarización de la Academia Militar Thors, Olivert estableció una filial como su último acto de rebelión. Luego comienza a contactar a su red de aliados para tomar una postura en contra del Canciller Osborne.
+info:
+  - ["Debut", "Trails in the Sky FC"]
+  - ["Nombre real", "Olivert Reise Arnor"]
+  - ["Aparece en", "[Sky FC](/es/sagas/sky/fc/), [Sky SC](/es/sagas/sky/sc/), [Sky the 3rd](/es/sagas/sky/the-3rd/), [Azure](/es/sagas/crossbell/azure/), [Cold Steel](/es/sagas/cold-steel/i/), [Cold Steel II](/es/sagas/cold-steel/ii/), [Cold Steel III](/es/sagas/cold-steel/iii/), [Cold Steel IV](/es/sagas/cold-steel/iv/), [Daybreak](/es/sagas/calvard/kuro-i/) *(mención)*"]
+  - ["Nacionalidad", "Ereboniana"]
+  - ["Edad", "25-26 (Sky), 27 (CS I-II), 29 (CS III-IV)"]
+  - ["Fecha de nacimiento", "S.1177/4/1 (Viernes)"]
+  - ["Estado", "Vivo"]
+  - ["Afiliación", "Academia Militar Thors"]
+  - ["Ocupación", "Miembro de la junta directiva de la Academia Militar Thors."]
+  - ["Parientes", "Eugent Reise Arnor III (padre), Priscilla Reise Arnor (madrastra), Alfin Reise Arnor (media hermana), Cedric Reise Arnor (medio hermano), Ariel Lenheim (madre), [Scherazard Harvey](/es/characters/scherazard-harvey/) (esposa), Sandy (prima segunda)"]
+  - ["Género", "Masculino"]
+  - ["Le gusta", "La música y la gastronomía"]
+  - ["Altura", "176 cm"]
+  - ["Ojos", "Violeta"]
+  - ["Cabello", "Rubio"]
+  - ["Arma", "Pistola Orbal"]
+
+extra:
+  - ["CV (JP)", "Takehito Koyasu"]
+  - ["CV (EN)", "Troy Baker / Matthew Mercer (Cold Steel and Sky Remake) / David Matranga (OVA)"]

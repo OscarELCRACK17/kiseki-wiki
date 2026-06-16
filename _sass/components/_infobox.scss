@@ -24,15 +24,17 @@
   text-align: center;
   margin-bottom: 10px;
 }
-
 .infobox table {
   width: 100%;
   border-collapse: collapse;
+  table-layout: fixed;
 }
 
 .infobox td {
   padding: 4px 0;
   vertical-align: top;
+  overflow-wrap: break-word;
+  word-break: break-word;
 }
 
 .infobox tr {

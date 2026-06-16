@@ -21,6 +21,7 @@ Aquí puedes explorar personajes organizados por saga.
 - [Scherazard Harvey](/es/characters/scherazard-harvey/)
 - [Agate Crosner](/es/characters/agate-crosner/)
 - [Kloe Rinz](/es/characters/kloe-rinz/)
+- [Olivier Lenheim](/es/characters/olivier-lenheim/)
 
 ---
 
